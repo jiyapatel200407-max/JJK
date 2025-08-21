@@ -1,7 +1,9 @@
 add aand remove users 
 change the roles
 manage the database
-closing the oracle database connection
+
+closing the database connection
+
 
 change 1
 change2 in jiya's database
